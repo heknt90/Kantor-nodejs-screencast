@@ -1,0 +1,25 @@
+{
+  "name": "kantor-nodejs-screencast",
+  "version": "0.0.1",
+  "description": "Completing assignment from the screencast of Ilya Kantor on Node JS",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heknt90/Kantor-nodejs-screencast.git"
+  },
+  "author": "Nikita Efremov https://github.com/heknt90/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heknt90/Kantor-nodejs-screencast/issues"
+  },
+  "homepage": "https://github.com/heknt90/Kantor-nodejs-screencast#readme"
+}
